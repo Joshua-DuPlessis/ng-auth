@@ -6,8 +6,8 @@
       "password": "Babayaga31!",
       "email": "joshua1duplessis@gmail.com",
       "gender": "male",
-      "role": "",
-      "isactive": false
+      "role": "admin",
+      "isactive": true
     }
   ]
 }
