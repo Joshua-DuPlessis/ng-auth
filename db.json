@@ -8,6 +8,15 @@
       "gender": "male",
       "role": "admin",
       "isactive": true
+    },
+    {
+      "id": "Michael",
+      "name": "Michael Du Plessis",
+      "password": "Babayaga31!",
+      "email": "michaelduplessis298@gmai.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
     }
   ]
 }
