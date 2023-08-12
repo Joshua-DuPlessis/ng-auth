@@ -1,5 +1,13 @@
 {
   "user": [
-
+    {
+      "id": "Joshua ",
+      "name": "Joshua Du Plessis",
+      "password": "Babayaga31!",
+      "email": "joshua1duplessis@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    }
   ]
 }
